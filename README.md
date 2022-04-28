@@ -1,9 +1,9 @@
 # KUYATRE
-- 👋 
-- 👀 
-- 🌱 
-- 💞️ 
-- 📫 
+- 👋 I
+- 👀 Just
+- 🌱 Want
+- 💞️ to
+- 📫 Sleep
 
 <!---
 KUYATRE/KUYATRE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
